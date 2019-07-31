@@ -1,0 +1,2 @@
+service_demo:tutorial_pkg
+-DCATKIN_DEVEL_PREFIX=/home/shubham/ROS/new_wsps/devel -DCMAKE_INSTALL_PREFIX=/home/shubham/ROS/new_wsps/install -G Unix Makefiles

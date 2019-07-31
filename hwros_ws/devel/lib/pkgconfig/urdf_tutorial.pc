@@ -1,0 +1,8 @@
+prefix=/home/shubham/ROS/hwros_ws/devel
+
+Name: urdf_tutorial
+Description: Description of urdf_tutorial
+Version: 0.4.0
+Cflags: 
+Libs: -L/home/shubham/ROS/hwros_ws/devel/lib 
+Requires: 

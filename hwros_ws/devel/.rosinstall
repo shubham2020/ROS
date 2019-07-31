@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/shubham/ROS/hwros_ws/devel/setup.sh

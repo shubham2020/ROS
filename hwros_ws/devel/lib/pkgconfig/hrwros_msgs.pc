@@ -1,0 +1,8 @@
+prefix=/home/shubham/ROS/hwros_ws/devel
+
+Name: hrwros_msgs
+Description: Description of hrwros_msgs
+Version: 0.0.0
+Cflags: -I/home/shubham/ROS/hwros_ws/devel/include
+Libs: -L/home/shubham/ROS/hwros_ws/devel/lib 
+Requires: message_runtime roscpp geometry_msgs std_msgs trajectory_msgs moveit_msgs actionlib_msgs

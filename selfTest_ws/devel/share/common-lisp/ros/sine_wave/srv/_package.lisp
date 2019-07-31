@@ -1,0 +1,10 @@
+(cl:defpackage sine_wave-srv
+  (:use )
+  (:export
+   "MULTTWOFLOATS"
+   "<MULTTWOFLOATS-REQUEST>"
+   "MULTTWOFLOATS-REQUEST"
+   "<MULTTWOFLOATS-RESPONSE>"
+   "MULTTWOFLOATS-RESPONSE"
+  ))
+

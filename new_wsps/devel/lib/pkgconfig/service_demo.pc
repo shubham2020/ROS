@@ -1,0 +1,8 @@
+prefix=/home/shubham/ROS/new_wsps/devel
+
+Name: service_demo
+Description: Description of service_demo
+Version: 0.0.0
+Cflags: -I/home/shubham/ROS/new_wsps/devel/include
+Libs: -L/home/shubham/ROS/new_wsps/devel/lib 
+Requires: 

@@ -1,0 +1,2 @@
+edge_detection
+-DCATKIN_DEVEL_PREFIX=/home/shubham/ROS/selfTest_ws/devel -DCMAKE_INSTALL_PREFIX=/home/shubham/ROS/selfTest_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/shubham/ROS/selfTest_ws/install
+
+Name: sine_wave
+Description: Description of sine_wave
+Version: 0.0.1
+Cflags: -I/home/shubham/ROS/selfTest_ws/install/include
+Libs: -L/home/shubham/ROS/selfTest_ws/install/lib 
+Requires: message_runtime rospy std_msgs
